@@ -1,7 +1,7 @@
-Repositorio ED3 - Fcefyn - UNC
+# Repositorio ED3 - Fcefyn - UNC
 
-Materia: Electrónica Digital 3 (The last chapter)
+**Materia:** Electrónica Digital 3 (The last chapter)
 
-Profesor: Gabriel Valenzuela
+**Profesor:** Gabriel Valenzuela
 
-Alumno: Tomás Ignacio Corbalán
+**Alumno:** Tomás Ignacio Corbalán
